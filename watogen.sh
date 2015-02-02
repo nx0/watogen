@@ -1,18 +1,7 @@
 #!/bin/bash
 
-#all_hosts += [
-#  "mtifw02.masvoz.net|wato|/" + FOLDER_PATH + "/",
-#]
-
-# Explicit IP addresses
-#ipaddresses.update({'mtifw02.masvoz.net': u'217.149.151.172'})
-
-# Host attributes (needed for WATO)
-#host_attributes.update(
-#{'mtifw02.masvoz.net': {'ipaddress': u'217.149.151.172'}})
-
 TITLE_TEXT="Web Administration Tool Host Generator"
-FOOTER_TXT="bugs, etc: francisco.valero@masvoz.es"
+FOOTER_TXT="bugs, etc: hackgo@gmail.com"
 
 echo "
                _  [ $TITLE_TEXT ]                       
